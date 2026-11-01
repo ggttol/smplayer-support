@@ -1,0 +1,218 @@
+[
+ {
+  "platform": "IOS",
+  "type": "APP_IPHONE_67",
+  "locale": "zh-Hans",
+  "files": [
+   {
+    "name": "iphone-zh-Hans-1-home.jpg",
+    "md5": "629fe853958ece37c67c18e453e6dbb4"
+   },
+   {
+    "name": "iphone-zh-Hans-2-nowplaying.jpg",
+    "md5": "fb9571de4193e9373afe130b3e943f29"
+   },
+   {
+    "name": "iphone-zh-Hans-3-album.jpg",
+    "md5": "86f9a51d82e683ac613d936ed4189fba"
+   },
+   {
+    "name": "iphone-zh-Hans-4-effects.jpg",
+    "md5": "64668163c7aa2210c49eef18df6c2638"
+   },
+   {
+    "name": "iphone-zh-Hans-5-queue.jpg",
+    "md5": "c896b4a7074e08b75390021990f212ff"
+   },
+   {
+    "name": "iphone-zh-Hans-6-sources.jpg",
+    "md5": "c2e5bd7f27dfe1755616ab3429aedd76"
+   }
+  ]
+ },
+ {
+  "platform": "IOS",
+  "type": "APP_IPHONE_67",
+  "locale": "en-US",
+  "files": [
+   {
+    "name": "iphone-en-1-home.jpg",
+    "md5": "89c702783700ee604488cb229dfe81c9"
+   },
+   {
+    "name": "iphone-en-2-nowplaying.jpg",
+    "md5": "3d4f60724221ed7c4798001d017a9d5b"
+   },
+   {
+    "name": "iphone-en-3-album.jpg",
+    "md5": "76a729d20e8331f64666d2411ff57f07"
+   },
+   {
+    "name": "iphone-en-4-effects.jpg",
+    "md5": "9e4dbbde1f05d21ef966812cc1a42a6b"
+   },
+   {
+    "name": "iphone-en-5-queue.jpg",
+    "md5": "83d6a64d2d7a9322f6118c17700c3748"
+   },
+   {
+    "name": "iphone-en-6-sources.jpg",
+    "md5": "82cdec7921052c8e29832647e99c9214"
+   }
+  ]
+ },
+ {
+  "platform": "IOS",
+  "type": "APP_IPAD_PRO_3GEN_129",
+  "locale": "zh-Hans",
+  "files": [
+   {
+    "name": "ipad-zh-Hans-1-home.jpg",
+    "md5": "07405bae2f07147d523105b586353fb5"
+   },
+   {
+    "name": "ipad-zh-Hans-2-nowplaying.jpg",
+    "md5": "e04b814c51ffa4fe6fa45297e3a25bda"
+   },
+   {
+    "name": "ipad-zh-Hans-3-album.jpg",
+    "md5": "800b4bf79bd3e3d8c2979414c234b3e8"
+   },
+   {
+    "name": "ipad-zh-Hans-4-effects.jpg",
+    "md5": "268b22b4d47d568fc32e31fa3d371f86"
+   },
+   {
+    "name": "ipad-zh-Hans-5-queue.jpg",
+    "md5": "460bed7cdbbaa03682c96b3d1d32e678"
+   },
+   {
+    "name": "ipad-zh-Hans-6-sources.jpg",
+    "md5": "bd9b566b15f7dc7ddee2484edffeacc3"
+   }
+  ]
+ },
+ {
+  "platform": "IOS",
+  "type": "APP_IPAD_PRO_3GEN_129",
+  "locale": "en-US",
+  "files": [
+   {
+    "name": "ipad-en-1-home.jpg",
+    "md5": "419d97c28ae571bf867869bd32818186"
+   },
+   {
+    "name": "ipad-en-2-nowplaying.jpg",
+    "md5": "c0fd9950a66d6e8b8f618e269514afb4"
+   },
+   {
+    "name": "ipad-en-3-album.jpg",
+    "md5": "40ce5befdf670b3ee68462cadad65e0b"
+   },
+   {
+    "name": "ipad-en-4-effects.jpg",
+    "md5": "e7b182d282b91a007c865b26b504aeb9"
+   },
+   {
+    "name": "ipad-en-5-queue.jpg",
+    "md5": "a7a78ec048c6a2cfd98b21f901652a09"
+   },
+   {
+    "name": "ipad-en-6-sources.jpg",
+    "md5": "50817c3465a264a2e62a36555e7bdfa6"
+   }
+  ]
+ },
+ {
+  "platform": "MAC_OS",
+  "type": "APP_DESKTOP",
+  "locale": "zh-Hans",
+  "files": [
+   {
+    "name": "mac-zh-Hans-1-home.jpg",
+    "md5": "85b244e89cfc4c91cb4aea15dd41b91b"
+   },
+   {
+    "name": "mac-zh-Hans-2-nowplaying.jpg",
+    "md5": "7d82fcf5afe2ba579b5cbc6ed2daac5a"
+   },
+   {
+    "name": "mac-zh-Hans-3-album.jpg",
+    "md5": "3111dc600cfd58af46727febaf3130d2"
+   },
+   {
+    "name": "mac-zh-Hans-4-queue.jpg",
+    "md5": "6312282a89a2a05c168afc88863693c2"
+   }
+  ]
+ },
+ {
+  "platform": "MAC_OS",
+  "type": "APP_DESKTOP",
+  "locale": "en-US",
+  "files": [
+   {
+    "name": "mac-en-1-home.jpg",
+    "md5": "1bd687077dd17e9f563d876bfc1c68d8"
+   },
+   {
+    "name": "mac-en-2-nowplaying.jpg",
+    "md5": "088f75d92db0dc00345f67bf15d5e90d"
+   },
+   {
+    "name": "mac-en-3-album.jpg",
+    "md5": "f9de06b93cf46a1a9a9b79a943a40f99"
+   },
+   {
+    "name": "mac-en-4-queue.jpg",
+    "md5": "022249312171bbc548f446e0d21b84d4"
+   }
+  ]
+ },
+ {
+  "platform": "TV_OS",
+  "type": "APP_APPLE_TV",
+  "locale": "zh-Hans",
+  "files": [
+   {
+    "name": "tv-zh-Hans-1-home.jpg",
+    "md5": "3f39827c78d0589d32e63db6845ae36f"
+   },
+   {
+    "name": "tv-zh-Hans-2-nowplaying.jpg",
+    "md5": "a6e4f7cfb4a480c55cdb835d0437bf1b"
+   },
+   {
+    "name": "tv-zh-Hans-3-albums.jpg",
+    "md5": "12d6e5e65d8060a96704e8253f733f7f"
+   },
+   {
+    "name": "tv-zh-Hans-4-artists.jpg",
+    "md5": "27a4bef46aa039d6dcea9de43a815f4b"
+   }
+  ]
+ },
+ {
+  "platform": "TV_OS",
+  "type": "APP_APPLE_TV",
+  "locale": "en-US",
+  "files": [
+   {
+    "name": "tv-en-1-home.jpg",
+    "md5": "00db7402d0b6735566b428461b7ad0e5"
+   },
+   {
+    "name": "tv-en-2-nowplaying.jpg",
+    "md5": "c4eeb32e7879fd71c624822428e65813"
+   },
+   {
+    "name": "tv-en-3-albums.jpg",
+    "md5": "d2ff5228140759285d980d1af12f57f5"
+   },
+   {
+    "name": "tv-en-4-artists.jpg",
+    "md5": "4e7cfe3d684f920313ea994859f7c7e5"
+   }
+  ]
+ }
+]
