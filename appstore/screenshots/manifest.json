@@ -214,5 +214,35 @@
     "md5": "4e7cfe3d684f920313ea994859f7c7e5"
    }
   ]
+ },
+ {
+  "platform": "IOS",
+  "type": "APP_WATCH_SERIES_10",
+  "locale": "zh-Hans",
+  "files": [
+   {
+    "name": "watch-zh-Hans-1-home.jpg",
+    "md5": "e6cbb2c543c07677ca5e1731201d9cd1"
+   },
+   {
+    "name": "watch-zh-Hans-2-nowplaying.jpg",
+    "md5": "f109118ebad5b19a9f1954be1fc6011d"
+   }
+  ]
+ },
+ {
+  "platform": "IOS",
+  "type": "APP_WATCH_SERIES_10",
+  "locale": "en-US",
+  "files": [
+   {
+    "name": "watch-en-1-home.jpg",
+    "md5": "93735a7286d6e1cded97577f1fdc0c3c"
+   },
+   {
+    "name": "watch-en-2-nowplaying.jpg",
+    "md5": "95f0a2ae9ac14ae130039423d6ba64c3"
+   }
+  ]
  }
 ]
