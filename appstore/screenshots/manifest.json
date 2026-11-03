@@ -6,27 +6,27 @@
     "files": [
       {
         "name": "iphone-zh-Hans-1-home.jpg",
-        "md5": "629fe853958ece37c67c18e453e6dbb4"
+        "md5": "a5bd0477b007121067d5a88482194b34"
       },
       {
         "name": "iphone-zh-Hans-2-nowplaying.jpg",
-        "md5": "fb9571de4193e9373afe130b3e943f29"
+        "md5": "786c7c47d7f90319d1b48a0dcea3acb7"
       },
       {
         "name": "iphone-zh-Hans-3-album.jpg",
-        "md5": "86f9a51d82e683ac613d936ed4189fba"
+        "md5": "14c424ed682f2f6f94a3d65e9886c90d"
       },
       {
         "name": "iphone-zh-Hans-4-effects.jpg",
-        "md5": "64668163c7aa2210c49eef18df6c2638"
+        "md5": "d45de0bc68beaa1d570e6875cd89400d"
       },
       {
         "name": "iphone-zh-Hans-5-queue.jpg",
-        "md5": "c896b4a7074e08b75390021990f212ff"
+        "md5": "ece18e757dade447dd8e026d0fb0460d"
       },
       {
         "name": "iphone-zh-Hans-6-sources.jpg",
-        "md5": "c2e5bd7f27dfe1755616ab3429aedd76"
+        "md5": "5fb5ed44438b2112e437b9a86bc47671"
       }
     ]
   },
@@ -37,27 +37,27 @@
     "files": [
       {
         "name": "iphone-en-1-home.jpg",
-        "md5": "89c702783700ee604488cb229dfe81c9"
+        "md5": "a49c897dc3f6418c1c8e9465d4bb2eba"
       },
       {
         "name": "iphone-en-2-nowplaying.jpg",
-        "md5": "3d4f60724221ed7c4798001d017a9d5b"
+        "md5": "43d5e40e61bf23f0484db22e3b665c4f"
       },
       {
         "name": "iphone-en-3-album.jpg",
-        "md5": "76a729d20e8331f64666d2411ff57f07"
+        "md5": "46c4f0d02b7d64e9a7688535cb5bc13a"
       },
       {
         "name": "iphone-en-4-effects.jpg",
-        "md5": "9e4dbbde1f05d21ef966812cc1a42a6b"
+        "md5": "bc7c9e7393e39d0b82665401a937fb61"
       },
       {
         "name": "iphone-en-5-queue.jpg",
-        "md5": "83d6a64d2d7a9322f6118c17700c3748"
+        "md5": "6acc8ce40c978bc6d464ef1584f07988"
       },
       {
         "name": "iphone-en-6-sources.jpg",
-        "md5": "82cdec7921052c8e29832647e99c9214"
+        "md5": "f19d89b9eb99f345030b2adff98bc4ae"
       }
     ]
   },
@@ -68,27 +68,27 @@
     "files": [
       {
         "name": "ipad-zh-Hans-1-home.jpg",
-        "md5": "07405bae2f07147d523105b586353fb5"
+        "md5": "a8d29b6039ea9abdb7efa3860a115c70"
       },
       {
         "name": "ipad-zh-Hans-2-nowplaying.jpg",
-        "md5": "e04b814c51ffa4fe6fa45297e3a25bda"
+        "md5": "ba523ecc9131ec68c251b0a05121ebef"
       },
       {
         "name": "ipad-zh-Hans-3-album.jpg",
-        "md5": "800b4bf79bd3e3d8c2979414c234b3e8"
+        "md5": "9a49c621a3066d14a4b58c38e64f9182"
       },
       {
         "name": "ipad-zh-Hans-4-effects.jpg",
-        "md5": "268b22b4d47d568fc32e31fa3d371f86"
+        "md5": "fa9c5f3bd0b27ae313d2d2a671b33b31"
       },
       {
         "name": "ipad-zh-Hans-5-queue.jpg",
-        "md5": "460bed7cdbbaa03682c96b3d1d32e678"
+        "md5": "0a1623099d81c0b4d33c59b79abb3c03"
       },
       {
         "name": "ipad-zh-Hans-6-sources.jpg",
-        "md5": "bd9b566b15f7dc7ddee2484edffeacc3"
+        "md5": "c611d8963bdf1f4d2cbfcc31a5daef2d"
       }
     ]
   },
@@ -99,27 +99,27 @@
     "files": [
       {
         "name": "ipad-en-1-home.jpg",
-        "md5": "419d97c28ae571bf867869bd32818186"
+        "md5": "fcf5f7abb4905be60291c2e2cc4ea281"
       },
       {
         "name": "ipad-en-2-nowplaying.jpg",
-        "md5": "c0fd9950a66d6e8b8f618e269514afb4"
+        "md5": "1ee89a3caa7cf9f65f3d756caa2a374d"
       },
       {
         "name": "ipad-en-3-album.jpg",
-        "md5": "40ce5befdf670b3ee68462cadad65e0b"
+        "md5": "07301aae4c19636c9e368c0c39820472"
       },
       {
         "name": "ipad-en-4-effects.jpg",
-        "md5": "e7b182d282b91a007c865b26b504aeb9"
+        "md5": "58dbfd8d421bf6673377fe4a061447fc"
       },
       {
         "name": "ipad-en-5-queue.jpg",
-        "md5": "a7a78ec048c6a2cfd98b21f901652a09"
+        "md5": "61b366dc7145ca64234c71d1bcfe8435"
       },
       {
         "name": "ipad-en-6-sources.jpg",
-        "md5": "50817c3465a264a2e62a36555e7bdfa6"
+        "md5": "3b34d2afbaa386a01a52716d1f7bc5f5"
       }
     ]
   },
@@ -130,19 +130,19 @@
     "files": [
       {
         "name": "mac-zh-Hans-1-home.jpg",
-        "md5": "85b244e89cfc4c91cb4aea15dd41b91b"
+        "md5": "77f2074b67c30d7bf60b80251cd1c848"
       },
       {
         "name": "mac-zh-Hans-2-nowplaying.jpg",
-        "md5": "7d82fcf5afe2ba579b5cbc6ed2daac5a"
+        "md5": "99936c7e86824d91ba485487ecbcf29e"
       },
       {
         "name": "mac-zh-Hans-3-album.jpg",
-        "md5": "3111dc600cfd58af46727febaf3130d2"
+        "md5": "1d9a2e0e720f23d95a5eb4753a7dfc03"
       },
       {
         "name": "mac-zh-Hans-4-queue.jpg",
-        "md5": "6312282a89a2a05c168afc88863693c2"
+        "md5": "47d77cd30da5f2ecfbba691800e388c1"
       }
     ]
   },
@@ -153,19 +153,19 @@
     "files": [
       {
         "name": "mac-en-1-home.jpg",
-        "md5": "1bd687077dd17e9f563d876bfc1c68d8"
+        "md5": "584c3cc8c9cd872a4be6cc82b06e0819"
       },
       {
         "name": "mac-en-2-nowplaying.jpg",
-        "md5": "088f75d92db0dc00345f67bf15d5e90d"
+        "md5": "3d0feee4b96dc2350a507d088b96853a"
       },
       {
         "name": "mac-en-3-album.jpg",
-        "md5": "f9de06b93cf46a1a9a9b79a943a40f99"
+        "md5": "3413cd47dd27c0d9c8a03c288ff717e1"
       },
       {
         "name": "mac-en-4-queue.jpg",
-        "md5": "022249312171bbc548f446e0d21b84d4"
+        "md5": "433fa7ff6a433832f78bcba54cc27272"
       }
     ]
   },
@@ -222,11 +222,11 @@
     "files": [
       {
         "name": "watch-zh-Hans-1-home.jpg",
-        "md5": "e6cbb2c543c07677ca5e1731201d9cd1"
+        "md5": "5e6d5af1d8b98a3c419360480dbf9410"
       },
       {
         "name": "watch-zh-Hans-2-nowplaying.jpg",
-        "md5": "f109118ebad5b19a9f1954be1fc6011d"
+        "md5": "8a8cd4d61a78754a7a17bf9200fdb3b5"
       }
     ]
   },
@@ -237,11 +237,11 @@
     "files": [
       {
         "name": "watch-en-1-home.jpg",
-        "md5": "93735a7286d6e1cded97577f1fdc0c3c"
+        "md5": "11898204d0af811a408785da03502fa8"
       },
       {
         "name": "watch-en-2-nowplaying.jpg",
-        "md5": "95f0a2ae9ac14ae130039423d6ba64c3"
+        "md5": "387b33373ce2b84aed542474f23834da"
       }
     ]
   }
